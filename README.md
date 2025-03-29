@@ -24,6 +24,10 @@
 - 📫 How to reach me **seelon.rajthala.7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+### Tech stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+<br/>
 <p align="left">
  https://skillicons.dev/icons?i=instagram
 <a href="https://twitter.com/silonrajthla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="silonrajthla" height="30" width="40" /></a>
