@@ -24,9 +24,7 @@
 - 📫 How to reach me **seelon.rajthala.7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-### Tech stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/silon-rajthala-6b0182221) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/silonrajthla) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/itzmesilon__) 
 <br/>
 <p align="left">
  https://skillicons.dev/icons?i=instagram
