@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, I,m Silon Rajthala. A passionate Software developer from Nepal</h2>
+<h2 align="center"> Hi, I am Silon Rajthala. A passionate Software developer from Nepal 📍</h2>
 
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"  />
