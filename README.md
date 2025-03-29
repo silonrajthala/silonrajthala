@@ -28,16 +28,6 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/silon-rajthala-6b0182221) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/silonrajthla) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/itzmesilon__) 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-<br/>
-
-<p align="left">
- https://skillicons.dev/icons?i=instagram
-<a href="https://twitter.com/silonrajthla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="silonrajthla" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/silon-rajthala-6b0182221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silonrajthala" height="30" width="40" /></a>
-<a href="https://instagram.com/itzmesilon__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzmesilon" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
