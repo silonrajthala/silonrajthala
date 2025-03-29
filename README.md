@@ -28,11 +28,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin: 5px;"/>
-    </a>
    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="laravel" width="40" height="40" style="margin: 5px;"/>
+    </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin: 5px;"/>
     </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin: 5px;"/>
