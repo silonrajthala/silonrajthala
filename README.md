@@ -29,10 +29,13 @@
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,bootstrap,html,css,cs,js,jquery,mysql,sass,tailwind,postgres,nginx,react,nextjs,py,dart,firebase,express,nodejs&theme=light)](https://skillicons.dev)
+
 <p align="left">
    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="laravel" width="40" height="40" style="margin: 5px;"/>
-    </a>
+    </a>,
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin: 5px;"/>
     </a>
