@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **CRMS Web Application**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me **seelon.rajthala.7@gmail.com**
 
