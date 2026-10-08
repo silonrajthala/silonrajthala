@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/silon-rajthala-6b0182221) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/silonrajthla) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/itzmesilon__) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/silon-rajthala-6b0182221) [![My Skills](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/silonrajthla) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/itzmesilon__) 
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
