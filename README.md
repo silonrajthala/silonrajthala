@@ -17,9 +17,9 @@
 
 ###
 
-- 🔭 I’m currently working on **CRMS Web Application**
+- 🔭 I’m currently working on **COS Web Application**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **seelon.rajthala.7@gmail.com**
 
