@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **COS Web Application**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **seelon.rajthala.7@gmail.com**
 
